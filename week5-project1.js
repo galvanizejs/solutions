@@ -1,3 +1,14 @@
+/*
+Answers Disclaimer:
+As we get further into these projects, there will be so
+many different ways to write the solutions. These are 
+one way and they do use a lot of functions, but this is
+not the only way to do it. Let us know if you have any 
+questions and we’ll help you through/explain things.
+*/
+
+
+
 $(document).ready(function() {
 
   var groceries = [
